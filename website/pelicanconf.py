@@ -1,6 +1,6 @@
 AUTHOR = 'Sébastien Deschamps'
 SITENAME = 'AthIete - Better yourself'
-SITEURL = ""
+SITEURL = "https://sebastiendes.github.io/athiete_web"
 
 PATH = "content"
 
